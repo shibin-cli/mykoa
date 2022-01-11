@@ -13,6 +13,6 @@
   "author": "shibin",
   "license": "MIT",
   "dependencies": {
-    "@mykoa/compose": "workspace:^0.0.0"
+    "@mykoa/compose": "0.0.0"
   }
 }
