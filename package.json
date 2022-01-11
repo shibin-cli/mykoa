@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "publish": "lerna publish",
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibin-cli/mykoa.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "shibin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shibin-cli/mykoa/issues"
+  },
+  "homepage": "https://github.com/shibin-cli/mykoa#readme",
+  "engines": {
+    "node": ">=14",
+    "pnpm": ">=6"
+},
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
