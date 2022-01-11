@@ -1,6 +1,6 @@
 {
   "name": "mykoa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -15,7 +15,7 @@
   "author": "shibin",
   "license": "MIT",
   "dependencies": {
-    "@mykoa/compose": "^0.0.2"
+    "@mykoa/compose": "^0.0.3"
   },
   "gitHead": "d4c754cb7e293c6888c0aefd78589f57bdfe1fc8"
 }
