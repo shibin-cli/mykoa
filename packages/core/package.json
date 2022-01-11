@@ -1,5 +1,5 @@
 {
-  "name": "@mykoa/core",
+  "name": "mykoa",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -17,5 +17,5 @@
   "dependencies": {
     "@mykoa/compose": "^0.0.2"
   },
-  "gitHead": "26010bc2a66bffd7ad611a1008de4bb29f0956ce"
+  "gitHead": "d4c754cb7e293c6888c0aefd78589f57bdfe1fc8"
 }
