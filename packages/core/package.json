@@ -6,6 +6,9 @@
   "directories": {
     "lib": "lib"
   },
+  "publishConfig": {
+    "access": "public"
+},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +20,5 @@
   "dependencies": {
     "@mykoa/compose": "^0.0.3"
   },
-  "gitHead": "d4c754cb7e293c6888c0aefd78589f57bdfe1fc8"
+  "gitHead": "e45bfa46da786d2c688d69b7bdae02dd830d9765"
 }
